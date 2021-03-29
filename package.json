@@ -1,0 +1,15 @@
+{
+  "name": "scramble",
+  "version": "1.0.0",
+  "description": "A scramble fullstack app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Umar Daraz",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "shadow-cljs": "^2.11.24"
+  }
+}
